@@ -1,0 +1,12 @@
++ set -e
++ logger 'Log out from script ./18_log.sh'
++ echo Hello
+Hello
++ set -e
++ logger 'Log out from script ./18_log.sh'
++ echo Hello
+Hello
++ set -e
++ logger 'Log out from script ./18_log.sh'
++ echo Hello
+Hello
